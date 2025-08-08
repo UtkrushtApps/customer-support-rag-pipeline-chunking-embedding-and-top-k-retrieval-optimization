@@ -1,0 +1,19 @@
+[
+  {
+    "doc_id": "S001",
+    "title": "Shipping Delay Policy",
+    "category": "shipping",
+    "priority": "high",
+    "date": "2022-03-12",
+    "content": "In the event that delivery is delayed due to weather or logistics, contact the customer immediately. Possible remedies include partial refunds or future discount vouchers..."
+  },
+  {
+    "doc_id": "S002",
+    "title": "Return and Refund Process",
+    "category": "returns",
+    "priority": "medium",
+    "date": "2022-01-08",
+    "content": "Customers may request a return within 30 days of receipt. The RMA process must be initiated through the support portal..."
+  }
+  // ...(7998 more documents)
+]
