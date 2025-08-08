@@ -1,0 +1,8 @@
+# Core config
+VECTOR_DB_HOST = '<DROPLET_IP>'
+VECTOR_DB_PORT = 8000
+VECTOR_DB_COLLECTION = 'support_documents'
+RAW_DOCS_PATH = 'data/raw_docs.json'
+CHUNK_SIZE = 512
+CHUNK_OVERLAP = 200
+VECTOR_DIM = 384
